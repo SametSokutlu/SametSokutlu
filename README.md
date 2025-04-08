@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SametSokutlu
 - 👀 I’m interested in ...Yazılım Geliştirme
-- 🌱 I’m currently learning ... java spring boot kullanarak projeler geliştiriyorum 
+- 🌱Java spring  kullanarak projeler geliştiriyorum 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Sametsokutlu03@gmail.com
 - 😄 Pronouns: ...
